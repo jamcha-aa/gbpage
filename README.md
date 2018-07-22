@@ -1,2 +1,2 @@
-# gbpage
-gitbook test repository
+## gbpage
+test page.
